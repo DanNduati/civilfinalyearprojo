@@ -4,7 +4,7 @@
 ### 2.Get time data from the rtc in the shield
 ### 3.Log data to the sd card with the use of the deek-robot data logging shield v1.0
 ### 4.Log multiple sensor data to the sd card
-
+### -> Log data to mysql database with php and the esp32 running micropython just for fun :)
 ## components
 ## 1. DS18B20 sensors
 
